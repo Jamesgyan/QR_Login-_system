@@ -1,0 +1,5 @@
+wxPython
+opencv-python
+qrcode[pil]
+pyzbar
+numpy

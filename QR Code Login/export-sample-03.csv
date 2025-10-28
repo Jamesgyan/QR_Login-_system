@@ -1,0 +1,5 @@
+Employee ID,Name,Action,Timestamp,Method
+ALLY002,allen,LOGOUT,13-10-2025 11:41,Manual_Admin
+ALLY002,allen,LOGIN,13-10-2025 11:40,Qr_Code
+ALLY002,allen,LOGIN,13-10-2025 11:24,Qr_Code
+ALLY001,James GP,LOGIN,13-10-2025 11:24,Qr_Code
